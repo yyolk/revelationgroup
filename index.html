@@ -53,7 +53,7 @@
 
       var loader = new THREE.ColladaLoader();
       loader.options.convertUpAxis = true;
-      loader.load( '/fukdwarehouse.dae', function ( collada ) {
+      loader.load( 'fukdwarehouse.dae', function ( collada ) {
 
         dae = collada.scene;
         skin = collada.skins[ 0 ];
