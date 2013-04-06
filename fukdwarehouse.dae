@@ -11,58 +11,58 @@
    </asset>
    <library_images>
       <image id='material_0_1_0-image' name='material_0_1_0-image'>
-         <init_from>../images/texture0.jpg</init_from>
+         <init_from>images/texture0.jpg</init_from>
       </image>
       <image id='material_1_2_0-image' name='material_1_2_0-image'>
-         <init_from>../images/texture1.jpg</init_from>
+         <init_from>images/texture1.jpg</init_from>
       </image>
       <image id='material_3_3_0-image' name='material_3_3_0-image'>
-         <init_from>../images/texture2.jpg</init_from>
+         <init_from>images/texture2.jpg</init_from>
       </image>
       <image id='material_4_4_0-image' name='material_4_4_0-image'>
-         <init_from>../images/texture3.jpg</init_from>
+         <init_from>images/texture3.jpg</init_from>
       </image>
       <image id='material_5_5_0-image' name='material_5_5_0-image'>
-         <init_from>../images/texture4.jpg</init_from>
+         <init_from>images/texture4.jpg</init_from>
       </image>
       <image id='material_6_6_0-image' name='material_6_6_0-image'>
-         <init_from>../images/texture5.jpg</init_from>
+         <init_from>images/texture5.jpg</init_from>
       </image>
       <image id='material_7_7_0-image' name='material_7_7_0-image'>
-         <init_from>../images/texture6.jpg</init_from>
+         <init_from>images/texture6.jpg</init_from>
       </image>
       <image id='material_8_8_0-image' name='material_8_8_0-image'>
-         <init_from>../images/texture7.jpg</init_from>
+         <init_from>images/texture7.jpg</init_from>
       </image>
       <image id='material_9_9_0-image' name='material_9_9_0-image'>
-         <init_from>../images/texture8.jpg</init_from>
+         <init_from>images/texture8.jpg</init_from>
       </image>
       <image id='material_10_10_0-image' name='material_10_10_0-image'>
-         <init_from>../images/texture9.jpg</init_from>
+         <init_from>images/texture9.jpg</init_from>
       </image>
       <image id='material_11_11_0-image' name='material_11_11_0-image'>
-         <init_from>../images/texture10.jpg</init_from>
+         <init_from>images/texture10.jpg</init_from>
       </image>
       <image id='material_12_12_0-image' name='material_12_12_0-image'>
-         <init_from>../images/texture11.jpg</init_from>
+         <init_from>images/texture11.jpg</init_from>
       </image>
       <image id='material_13_13_0-image' name='material_13_13_0-image'>
-         <init_from>../images/texture12.jpg</init_from>
+         <init_from>images/texture12.jpg</init_from>
       </image>
       <image id='material_14_14_0-image' name='material_14_14_0-image'>
-         <init_from>../images/texture13.jpg</init_from>
+         <init_from>images/texture13.jpg</init_from>
       </image>
       <image id='material_15_15_0-image' name='material_15_15_0-image'>
-         <init_from>../images/texture14.jpg</init_from>
+         <init_from>images/texture14.jpg</init_from>
       </image>
       <image id='material_4_4_8-image' name='material_4_4_8-image'>
-         <init_from>../images/texture3.jpg</init_from>
+         <init_from>images/texture3.jpg</init_from>
       </image>
       <image id='material_16_16_0-image' name='material_16_16_0-image'>
-         <init_from>../images/texture15.jpg</init_from>
+         <init_from>images/texture15.jpg</init_from>
       </image>
       <image id='material_16_16_8-image' name='material_16_16_8-image'>
-         <init_from>../images/texture15.jpg</init_from>
+         <init_from>images/texture15.jpg</init_from>
       </image>
    </library_images>
    <library_materials>
